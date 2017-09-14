@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bird">
+    <Position X="3" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAIACAAKgAAAAAYEgAAAAAAIICAQBgAABgAABAAAA=</HashCode>
+      <FileName>bird.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="8" Y="0.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Game::GameState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEIAAIAAAIAAAAAAAIUIAAgAAAgAAAoNBAAAAAAAIAA=</HashCode>
+      <FileName>game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pipes">
+    <Position X="5.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAIAJAAAAAAAAQAAAAAAEAACAQACAAhAAEBBABA=</HashCode>
+      <FileName>pipes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Results">
+    <Position X="10.5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAACKAAAAAAAAAAAACAAAQAggAAgAAAAgAAA=</HashCode>
+      <FileName>results.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Transformable" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIIAIADgCgGCAAAAQACgDDAAgAAACAAAAAAEAAAA=</HashCode>
+      <FileName>c:\users\803100\desktop\sfml-2.3.2\include\sfml\graphics\transformable.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
